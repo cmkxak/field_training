@@ -20,6 +20,7 @@
 || 공개 채팅 PUSH 알림 구현 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
 || 친구 신청 수락 시 push 알림 클릭한 경우, undefined로 표기되는 결함 해결 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
 || Push 알림 클릭 시 채팅방 이동 후 다시 메인화면으로 이동되는 결함 해결 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
+|4주차| ios 환경에서 app icon badge count 설정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
 ------------
 # 느낀점
 
