@@ -13,7 +13,7 @@
 해결 과정은 폴더 내부에 작성해두었습니다.
 
  |주차|수행 내용| 사용 언어 |
-|-----|------------|-----|
+|--------|----------------|-------|
 |1주차| 환경 설정 및 프로젝트 분석 | <a href = "https://ko.reactjs.org/docs/getting-started.html"> React </a> |
 |2주차| 관리자 페이지의 네이버 지도를 Google Map으로 변경 | <a href = "https://ko.reactjs.org/docs/getting-started.html"> React </a> |
 |3주차| 환경 설정 및 프로젝트 분석 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
