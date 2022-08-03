@@ -6,6 +6,7 @@
  * 참여 프로젝트  
    * React Native 기반의 모바일 채팅 애플리케이션 "ITZY"
    * React 기반의 ITZY 관리자 웹 애플리케이션
+   * Spring Boot 기반의 스마트팜 웹 애리케이션
   
   * 맡은 업무 : 애플리케이션 유지 보수 및 추가 기능 개발
 ------------
@@ -26,6 +27,7 @@
 || 공개 채팅방과 개인 채팅방에서 2명 이상의 사용자에게 push 알림이 전송되도록 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
 || 초대된 채팅방에서 push 알림을 클릭하여 방에 접속할 경우 roomName이 갱신되도록 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
 |5주차| 환경 설정 및 프로젝트 분석 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|6주차| 게시판 CRUD 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 
 
 ------------
