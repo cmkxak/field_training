@@ -32,6 +32,8 @@
 || QueryDSL을 활용하여 db로부터 꺼내온 데이터를 chart로 나타내기 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 |7W| 데이터 관리 페이지의 검색 필터 구현하기 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 || 생육환경 페이지 추가/수정 기능 추가 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|8W| 사용자가 입력한 데이터를 DTO를 활용하여 DB에 저장하기 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+
 
 
 ------------
