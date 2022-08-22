@@ -18,23 +18,23 @@
 |1W| 환경 설정 및 프로젝트 분석 | <a href = "https://ko.reactjs.org/docs/getting-started.html"> React </a> |
 |2W| 관리자 페이지의 네이버 지도를 Google Map으로 변경 | <a href = "https://ko.reactjs.org/docs/getting-started.html"> React </a> |
 |3W| 환경 설정 및 프로젝트 분석 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
-|| 개인 채팅방 PUSH 알림 오류 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
-|| 공개 채팅방 PUSH 알림 구현 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
-|| 친구 신청 수락 시 push 알림 클릭한 경우, undefined로 표기되는 결함 해결 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
-|| Push 알림 클릭 시 채팅방 이동 후 다시 메인화면으로 이동되는 결함 해결 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
+|  | 개인 채팅방 PUSH 알림 오류 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
+|  | 공개 채팅방 PUSH 알림 구현 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
+|  | 친구 신청 수락 시 push 알림 클릭한 경우, undefined로 표기되는 결함 해결 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
+|  | Push 알림 클릭 시 채팅방 이동 후 다시 메인화면으로 이동되는 결함 해결 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
 |4W| ios 환경에서 app icon badge count 설정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
-|| 개인 채팅방 리스트에서 마지막 메시지 보낸(받은)시간이 표시되도록 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
-|| 공개 채팅방과 개인 채팅방에서 2명 이상의 사용자에게 push 알림이 전송되도록 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
-|| 초대된 채팅방에서 push 알림을 클릭하여 방에 접속할 경우 roomName이 갱신되도록 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
+|  | 개인 채팅방 리스트에서 마지막 메시지 보낸(받은)시간이 표시되도록 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
+|  | 공개 채팅방과 개인 채팅방에서 2명 이상의 사용자에게 push 알림이 전송되도록 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
+|  | 초대된 채팅방에서 push 알림을 클릭하여 방에 접속할 경우 roomName이 갱신되도록 수정 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
 |5W| 환경 설정 및 프로젝트 분석 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 |6W| 데이터 관리 페이지 글 추가, 글 수정 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
-|| 데이터 관리 페이지 페이징 처리 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
-|| QueryDSL을 활용하여 db로부터 꺼내온 데이터를 chart로 시각화 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|  | 데이터 관리 페이지 페이징 처리 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|  | QueryDSL을 활용하여 db로부터 꺼내온 데이터를 chart로 시각화 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 |7~8W| 데이터 관리 페이지의 검색 필터 구현하기 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
-|| 생육환경 페이지 추가/수정 기능 추가 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
-|| 동(Shelf) 페이지에서 생육환경의 수동 데이터 입력을 위한 form 페이지 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
-|| 수동 데이터 입력 페이지에서 저장 및 리다이렉션 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
-|| 사용자가 입력한 데이터를 DTO를 활용하여 DB에 저장하기 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|  | 생육환경 페이지 추가/수정 기능 추가 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|  | 동(Shelf) 페이지에서 생육환경의 수동 데이터 입력을 위한 form 페이지 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|  | 수동 데이터 입력 페이지에서 저장 및 리다이렉션 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|  | 사용자가 입력한 데이터를 DTO를 활용하여 DB에 저장하기 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 ------------
 # 느낀점
 
