@@ -6,7 +6,7 @@
  * 참여 프로젝트  
    * React Native 기반의 모바일 채팅 애플리케이션 "ITZY"
    * React 기반의 ITZY 관리자 웹 애플리케이션
-   * Spring Boot + Spring Data JPA + QueryDSL 기반의 스마트팜 생육/생산 환경 조성 데이터 제공 웹 애플리케이션 <a href = "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000075234&cpage=26&rows=15&condition=&keyword=&hashCode=">(2022년 SW 융합 서비스 모델 개발 및 사업화 지원 사업)</a>
+   * Spring Boot + Spring Data JPA + QueryDSL + Thymeleaf 기반의 스마트팜 생육/생산 환경 조성 데이터 제공 웹 애플리케이션 <a href = "https://www.bizinfo.go.kr/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000075234&cpage=26&rows=15&condition=&keyword=&hashCode=">(2022년 SW 융합 서비스 모델 개발 및 사업화 지원 사업)</a>
   * 버전 관리 도구 : <a href="https://yona.io/">Yona</a> 
   * 맡은 업무 : 애플리케이션 유지 보수 및 기능 개발
 ------------
@@ -14,7 +14,7 @@
 해결 과정은 폴더 내부에 작성해두었습니다.
 
 | 주차 | 수행 내용 | 사용 언어 |
-|:---:|:----------------|:-------:|
+|---|:----------------|-------|
 |1W| 환경 설정 및 프로젝트 분석 | <a href = "https://ko.reactjs.org/docs/getting-started.html"> React </a> |
 |2W| 관리자 페이지의 네이버 지도를 Google Map으로 변경 | <a href = "https://ko.reactjs.org/docs/getting-started.html"> React </a> |
 |3W| 환경 설정 및 프로젝트 분석 |<a href = "https://reactnative.dev/docs/getting-started"> React Native </a>|
@@ -32,10 +32,9 @@
 || QueryDSL을 활용하여 db로부터 꺼내온 데이터를 chart로 시각화 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 |7~8W| 데이터 관리 페이지의 검색 필터 구현하기 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 || 생육환경 페이지 추가/수정 기능 추가 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
-|| Thymeleaf를 활용하여 동(Shelf) 페이지에서 생육환경의 수동 데이터 입력을 위한 form 페이지 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
+|| 동(Shelf) 페이지에서 생육환경의 수동 데이터 입력을 위한 form 페이지 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 || 수동 데이터 입력 페이지에서 저장 및 리다이렉션 구현 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
 || 사용자가 입력한 데이터를 DTO를 활용하여 DB에 저장하기 | <a href = "https://spring.io/projects/spring-boot"> Spring Boot </a> |
-
 ------------
 # 느낀점
 
